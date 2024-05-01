@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "TABRWKV"
+  site-url: "https://robeson1010.github.io/TABRWKV"
+  description: "TabRWKV network"
+  repo-branch: main
+  repo-url: "https://github.com/robeson1010/TABRWKV"
